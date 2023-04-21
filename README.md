@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/profile.php?id=100004020438667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004020438667" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **<a href="sabrym339@gmail.com">My Email</a>**
+- 📫 How to reach me **<a href="mailto:sabrym339@gmail.com">sabrym339@gmail.com</a>**
 
 - 📄 Know about my experiences [<a href="https://drive.google.com/file/d/1DVu69vHZ6I7lvE6LV7RtBMcV_IyOO-U1/view?usp=sharing">My Cv</a>](https://drive.google.com/file/d/1DVu69vHZ6I7lvE6LV7RtBMcV_IyOO-U1/view?usp=sharing)
 
